@@ -1,0 +1,4 @@
+functions
+function prototype 
+random numbers  
+seeding random numbers

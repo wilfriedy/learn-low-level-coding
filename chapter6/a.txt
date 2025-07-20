@@ -1,0 +1,4 @@
+hello this is my first buffer file
+buffers are files saved in memory ( ram ) 
+they are fast.
+

@@ -1,0 +1,7 @@
+include 
+my shoe
+in t
+he list
+of
+many
+;
